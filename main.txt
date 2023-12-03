@@ -1,0 +1,2 @@
+nombredemots=0
+nombredevoyelles=0
